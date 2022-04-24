@@ -12,7 +12,8 @@ The real reason for writing this was to make sure my development environment (cu
 # Development Environment
 
 Visual Studio Code
-Git and GitHub
+
+Git / GitHub
 
 Programmed in Python for ease of creation
 
